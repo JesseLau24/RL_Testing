@@ -1,0 +1,11 @@
+# ignore all big zip files
+*.zip
+/home/jesse/Projects/RL_Testing/SAC_Testing/sac_NVDA.zip
+
+# ignore myenvs
+venvs/
+.env/
+myenvs/
+
+# ignore .ipynb checkpoints
+.ipynb_checkpoints/ 
