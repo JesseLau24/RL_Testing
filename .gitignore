@@ -8,3 +8,6 @@ myenvs/
 
 # ignore .ipynb checkpoints
 .ipynb_checkpoints/ 
+
+# ignore sac_logs
+sac_logs/
